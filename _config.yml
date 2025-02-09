@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianpei Yang"
+title                    : "Qian Zhang"
 title_separator          : "-"
-name                     : &name "Tianpei Yang"
+name                     : &name "Qian Zhang"
 description              : &description "Nanjing University"
-url                      : https://tianpeiyang.github.io # the base hostname & protocol for your site e.g. "https://tianpeiyang.github.io"
+url                      : https://SG-XM.github.io # the base hostname & protocol for your site e.g. "https://SG-XM.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tianpeiyang/tianpeiyang.github.io"
+repository               : "tianpeiyang/SG-XM.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Tianpei Yang', 'tianpei.yang@nju.edu.cn', 'url', 'message']
+  allowedFields          : ['Qian Zhang', 'zhangqian0827@tju.edu.cn', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianpei Yang"
+  name             : "Qian Zhang"
   avatar           : "new_profile.jpg"
-  bio              : "Assistant Professor"
-  location         : "Nanjing University"
+  bio              : "Phd Student"
+  location         : "Tianjin University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=WPRygosAAAAJ"
-  email            : "tianpei.yang@nju.edu.cn"
+  googlescholar    : 
+  email            : "zhangqian0827@tju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tianpeiyang"
+  github           : "SG-XM"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "www.linkedin.com/in/tianpei-yang"
-  orcid            : "https://orcid.org/0000-0002-5497-7146"
+  LinkedIn         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ytpserena"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
