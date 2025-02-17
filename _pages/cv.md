@@ -15,8 +15,8 @@ Education
 * Ph.D in School of New Media and Communication, Tianjin University, 2024 
 
 
-
-<a href="https://SG-XM.github.io/publications/">Publications</a>
+<!-- 
+<a href="https://SG-XM.github.io/publications/">Publications</a> -->
 ======
 
  
